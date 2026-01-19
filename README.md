@@ -1,5 +1,7 @@
 # Bank_Loan_Analysis
 Bank Loan Performance Analysis Using Python & Excel
+
+
 📌 Project Overview
 
 This project presents an end-to-end analysis of bank loan data using Python and Microsoft Excel. The aim is to analyze loan applications, evaluate loan performance, identify financial risk, and extract meaningful insights through data analysis and visualization.
